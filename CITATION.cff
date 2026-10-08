@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript when referring to its findings and use this versioned repository link when citing these supplementary materials."
+type: dataset
+title: "Supplementary materials for The Role of Federated Learning in Intelligent Transportation Systems"
+version: "1.0.0"
+url: "https://github.com/mahbubchula/fl-its-review-supplements/releases/tag/v1.0.0"
+repository-code: "https://github.com/mahbubchula/fl-its-review-supplements"
+authors:
+  - family-names: "Hassan"
+    given-names: "Mahbub"
+  - family-names: "Ray"
+    given-names: "Sumon Chandra"
+  - family-names: "Islam"
+    given-names: "Md Kamrul"
+  - family-names: "Rahman"
+    given-names: "M. M. Hafizur"
+abstract: "Seven supplementary Word documents describing the review search strategy, corpus characteristics, taxonomy, coding agreement, appraisal selection and coding, and search-scope sensitivity comparisons."
+keywords:
+  - federated learning
+  - intelligent transportation systems
+  - supplementary materials
