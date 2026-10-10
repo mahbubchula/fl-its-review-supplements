@@ -12,13 +12,11 @@
 <p align="center">
   <a href="#supplement-library"><img src="https://img.shields.io/badge/Supplements-S1%E2%80%93S7-0F766E?style=flat-square" alt="Seven supplements, S1–S7"></a>
   <a href="#supplement-library"><img src="https://img.shields.io/badge/Format-Word%20%28.docx%29-2563EB?style=flat-square" alt="Word document format"></a>
-  <a href="https://github.com/mahbubchula/fl-its-review-supplements/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Archived%20release-v1.0.0-475569?style=flat-square" alt="Archived release v1.0.0"></a>
 </p>
 
 <p align="center">
   <a href="#supplement-library"><b>Browse supplements</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/mahbubchula/fl-its-review-supplements/releases/download/v1.0.0/FL_ITS_Supplementary_Materials_v1.0.0.zip"><b>Download v1.0.0 ZIP</b></a> &nbsp;·&nbsp;
-  <a href="#citation--manuscript-use"><b>Citation &amp; manuscript use</b></a>
+  <a href="#manuscript-use"><b>Manuscript use</b></a>
 </p>
 
 ---
@@ -58,50 +56,13 @@ The links below download the **current documents on `main`**.
 - **Follow the detailed appraisal:** read S5 → S6.
 - **Examine the coverage boundaries:** read S7.
 
-## Downloads & versions
+## Manuscript use
 
-| Your purpose | Recommended source |
-| :--- | :--- |
-| Read the latest supplements | Individual downloads in the [supplement library](#supplement-library). |
-| Download the archived set together | [v1.0.0 ZIP archive](https://github.com/mahbubchula/fl-its-review-supplements/releases/download/v1.0.0/FL_ITS_Supplementary_Materials_v1.0.0.zip). |
-| Cite a fixed version | [v1.0.0 release](https://github.com/mahbubchula/fl-its-review-supplements/releases/tag/v1.0.0) and its release assets. |
-| Verify current document integrity | [SHA256SUMS.txt](SHA256SUMS.txt). |
+Please cite the **main manuscript** when referring to its findings.
 
-> [!NOTE]
-> The archived **v1.0.0** release preserves its original files. The current `main` branch includes the updated S1 search strategy document and its checksum, so it differs from that release. Use the checksums supplied with the version you download.
+**Suggested availability statement**
 
-<details>
-<summary><b>Verify the downloaded documents</b></summary>
-
-Download the seven Word documents and the matching `SHA256SUMS.txt` into the same folder, then run:
-
-**macOS**
-
-```sh
-shasum -a 256 -c SHA256SUMS.txt
-```
-
-**Linux**
-
-```sh
-sha256sum -c SHA256SUMS.txt
-```
-
-Each document should return `OK`.
-
-</details>
-
-## Citation & manuscript use
-
-Please cite the **main manuscript** when referring to its findings. When citing these supplementary materials, include the versioned release link so readers can retrieve the same files.
-
-Citation metadata for the archived release is available in [CITATION.cff](CITATION.cff).
-
-**Suggested availability statement for v1.0.0**
-
-> Supplementary Materials S1–S7 are publicly available in the GitHub repository at https://github.com/mahbubchula/fl-its-review-supplements/releases/tag/v1.0.0.
-
-This statement refers to the archived release. If you use the updated documents on `main`, identify the specific commit in your availability statement.
+> Supplementary Materials S1–S7 are publicly available at https://github.com/mahbubchula/fl-its-review-supplements.
 
 ## Authors
 
